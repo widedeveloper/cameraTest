@@ -39,6 +39,12 @@
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>NSCameraUsageDescription</key>
+	<string>Take a photo to use as your event image</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>App wants to save photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>So you can choose photos for your profile, groups and events</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
